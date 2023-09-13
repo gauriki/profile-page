@@ -1,5 +1,6 @@
 module.exports = {
   reactStrictMode: true,
   // Add basePath
-  basePath: "/github-pages",
+
+  basePath: "/profile-page",
 };
