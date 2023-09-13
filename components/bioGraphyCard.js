@@ -17,7 +17,7 @@ export function BioGraphyCard() {
         <div className="relative group ">
           <img
             alt=""
-            src="/images/me-2.jpg"
+            src="/profile-page/images/me-2.jpg"
             className="md:w-[400px] md:h-[400px] w-[350px] h-[350px]"
           />
           <div className="absolute transform-gpu duration-500 group-hover:top-4 group-hover:right-4 top-3 md:w-[400px] w-[350px] h-[350px] md:h-[400px] right-3 bg-[#ea6e85] -z-[2]"></div>

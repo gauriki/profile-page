@@ -6,7 +6,7 @@ export function ImageCard() {
       <div className="absolute top-0 left-0 bottom-0 right-0 z-1 bg-gradient-to-b from-[rgba(0,0,0,.3)] to-[rgba(0,0,0,.6)]"></div>
       <div className="absolute flex justify-center flex-col items-center top-[50%] -translate-y-[50%] left-[50%] -translate-x-[50%]">
         <img
-          src="/images/me.png"
+          src="/profile-page/images/me.png"
           alt=""
           width={240}
           height={240}
